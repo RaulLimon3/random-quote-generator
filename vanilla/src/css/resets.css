@@ -18,8 +18,11 @@ html {
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    background: #fff;
+    background: #e0e1dd;
     color: #333;
+    width: 100dvw;
+    height: 100dvh;
+    padding: 16px;
 }
 
 button {
